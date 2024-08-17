@@ -13,12 +13,12 @@ This is a Python implementation of the classic Rock, Paper, Scissors game. The g
 ## Project Structure
 
 rock_paper_scissors/
-├── init.py # Indicates that this directory is a package 
-├── game.py # Main game logic (Entry point)
-├── player.py # Handles user input and computer choice 
-├── rules.py # Contains the logic for determining the winner  
-├── utils.py # Utility functions (e.g., input validation, replay prompt) 
-└── test_game.py # Unit tests for the game logic 
+├── init.py # Indicates that this directory is a package                                                                       
+├── game.py # Main game logic (Entry point)                                                                                    
+├── player.py # Handles user input and computer choice                                                                         
+├── rules.py # Contains the logic for determining the winner                                                                   
+├── utils.py # Utility functions (e.g., input validation, replay prompt)                                                       
+└── test_game.py # Unit tests for the game logic                                                                               
 
 
 ## Prerequisites
