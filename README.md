@@ -12,7 +12,7 @@ This is a Python implementation of the classic Rock, Paper, Scissors game. The g
 
 ## Project Structure
 
-rock_paper_scissors/
+rock_paper_scissors/                                                                                                           
 ├── init.py # Indicates that this directory is a package                                                                       
 ├── game.py # Main game logic (Entry point)                                                                                    
 ├── player.py # Handles user input and computer choice                                                                         
