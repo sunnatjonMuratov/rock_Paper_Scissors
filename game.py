@@ -5,7 +5,7 @@ from utils import ask_to_play_again
 
 def play_game():
     """
-    Main function to play the Rock, Paper, Scissors game.
+    Main function to play the Rock, Paper, Scissors game
     """
     user_score = 0
     computer_score = 0
