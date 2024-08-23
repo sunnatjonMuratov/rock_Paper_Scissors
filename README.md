@@ -61,5 +61,4 @@ rock_paper_scissors/
 ## Future Improvements
 
 - **Graphical User Interface (GUI)**: Implement a GUI using `tkinter` for a more interactive experience.
-- **Additional Game Modes**: Add more choices, like "Lizard" and "Spock", or implement different game modes (e.g., best of 3).
 - **Online Multiplayer**: Extend the game to support online multiplayer.
