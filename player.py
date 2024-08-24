@@ -8,7 +8,7 @@ def get_user_choice():
     choices = ["rock", "paper", "scissors"]
     user_choice = input("Enter your choice (rock, paper, scissors): ").lower()
     while user_choice not in choices:
-        user_choice = input("Invalid choice. Please enter rock, paper, or scissors(in lowercase): ").lower()
+        user_choice = input("Invalid choice! Please enter rock, paper, or scissors: ").lower()
     return user_choice
 
 
